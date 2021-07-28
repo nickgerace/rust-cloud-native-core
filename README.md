@@ -5,7 +5,7 @@
 This is the core repository for the Rust Cloud Native organization on GitHub.
 It contains goals, definitions, structures, processes, etc. for the organization.
 
-<img src="https://raw.githubusercontent.com/rust-cloud-native/logo/main/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="300">
+<img src="https://raw.githubusercontent.com/rust-cloud-native/logo/main/img/rust-cloud-native-logo.png" alt="rust-cloud-native-logo" width="200">
 
 ## What are the goals of this organization?
 
@@ -21,7 +21,8 @@ This section has been divided by topic.
 ### Code of Conduct
 
 Unless otherwise specified, all repositories under the GitHub organization (including this one) follow and enforce the Rust programming language's [Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct).
-Every repository should not only include a root `README.md` file, but that file must contain a reference or definition of the code of the conduct, *at minimum*.
+Every repository under this organization should include a `CODE_OF_CONDUCT.md` file in the project's root directory.
+If the file does not exiting in a given repository under this organization, please file an issue.
 
 ### License
 
@@ -37,11 +38,11 @@ Recommended documentation badge style (shields.io, etc.): `flat-square`.
 The [logo](https://github.com/rust-cloud-native/logo) is encouraged to be used wherever and whenever desired!
 It is recommended to be used in root `README.md` files for repositories under the organization.
 
-## Who are the owners?
+## Owners and Members
 
-For now, [@nickgerace](https://github.com/nickgerace) is the sole owner and maintainer of this organization and its repositories.
-One of the first organizational objectives is to create a formal `OWNERS` group with full access to the organization and its contents.
-Humans do not scale, and Rust Cloud Native is for everyone!
+One of our first organizational objectives is to create a formal owners and members group with full access to the organization and its contents.
+Humans do not scale, and Rust Cloud Native is for everyone.
+The process to welcoming more members is still to be determined.
 
 ## What can I do to help?
 
